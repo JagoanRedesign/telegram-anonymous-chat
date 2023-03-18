@@ -3,7 +3,7 @@
   "description": "bot anonymous chat telegram",
   "repository": "https://github.com/Rianfirnanda/telegram-anonymous-chat",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
-"stack": "heroku-20"
+ "stack": "heroku-20",
   "keywords": [
     "bot",
     "telegram",
